@@ -1,3 +1,10 @@
+---
+title: "Lexington Market"
+date: 2016-12-04
+tags:
+  - Lexington Market
+  - notes
+---
 
 ![Lexington Market, Baltimore, c. 1898-1931. Courtesy [NYPL](http://digitalcollections.nypl.org/items/510d47d9-a209-a3d9-e040-e00a18064a99).](https://images.nypl.org/index.php?id=68613&t=w)
 
